@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to ApexBank accounts related Produce APIs"
+  message: "Welcome to ApexBank accounts related Prod APIs"
   contactDetails:
     name: "Pravin Barate - Product Owner"
     email: "{cipher}9c6bdec4aceaea8b3c4ce32a0e608029a69614e7addeb0a3b68b36c1cd1531504e199b1f7aabea524f80fe0d39ee3113"
